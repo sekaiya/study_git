@@ -5,3 +5,5 @@ matakaeru
 korizuni
 
 function tashizan();
+
+function hikizan();
